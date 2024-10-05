@@ -1,5 +1,13 @@
 # viem
 
+## 2.21.19
+
+### Patch Changes
+
+- [`44ae1a55`](https://github.com/wevm/viem/commit/44ae1a5549e704486f2643c67f222ab3ce87cd47) Thanks [@jxom](https://github.com/jxom)! - **Account Abstraction:** Tweaked address caching in `toCoinbaseSmartAccount`.
+
+- [#2822](https://github.com/wevm/viem/pull/2822) [`2bc5ff14`](https://github.com/wevm/viem/commit/2bc5ff146b52405c62f9d6996f66e0b39840b6ea) Thanks [@swetshaw](https://github.com/swetshaw)! - Added Kakarot Starknet Sepolia chain.
+
 ## 2.21.18
 
 ### Patch Changes
